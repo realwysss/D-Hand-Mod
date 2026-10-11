@@ -1,0 +1,25 @@
+{
+	"schemaVersion": 1,
+	"id": "dhandmod",
+	"version": "${version}",
+	"name": "dhandmod",
+	"description": "double hand totems for you acting as double keybind",
+	"authors": ["dlindustries"],
+	"license": "All Rights Reserved",
+	"icon": "assets/dhandmod/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": ["vigillant.dlindustries.fabric.dhandmod.dhandmodClient"]
+	},
+	"mixins": [
+		{
+			"config": "dhandmod.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.0",
+		"minecraft": "~26.1",
+		"java": ">=25"
+	}
+}
