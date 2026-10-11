@@ -11,4 +11,6 @@ press the inventory key and the hotbar jumps to your totem, then the inventory o
 
 jars are in `builds`, sources are in the folder of each version. build with `./gradlew build`.
 
+-# claude did not make it, its written by hand from me, he is just updating it everytime i push out a new update locally
+
 all rights reserved, see LICENSE.
