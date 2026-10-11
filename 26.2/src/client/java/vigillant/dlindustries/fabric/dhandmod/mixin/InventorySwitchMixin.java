@@ -11,7 +11,6 @@ import vigillant.dlindustries.fabric.dhandmod.InventorySafetyHandler;
 public abstract class InventorySwitchMixin {
 	@Inject(method = "handleKeybinds", at = @At("HEAD"))
 	private void onkeys(CallbackInfo ci) {
-		Minecraft mc = Minecraft.getInstance();
-		if (mc.options.keyInventory.consumeClick() && mc.gui.screen() == null) InventorySafetyHandler.onInventoryKeyPressed();
+		InventorySafetyHandler.tick(Minecraft.getInstance());
 	}
 }

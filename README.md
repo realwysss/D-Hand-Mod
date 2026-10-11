@@ -2,7 +2,9 @@
 
 double hand totems for you acting as double keybind. client only fabric mod.
 
-press the inventory key and the hotbar jumps to your totem, then the inventory opens. also removes the item pop animation.
+press the inventory key (any key you bound) and the hotbar jumps to your totem, then the inventory opens. also removes the item pop animation.
+
+settings (mod menu + cloth config): mod on/off switch and a random delay (start - end, 0 to 10 ticks, default 1 - 3) for each step. 0 - 0 might get you banned.
 
 ## versions
 - 1.21.11 (java 21)
