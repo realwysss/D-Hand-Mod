@@ -1,3 +1,5 @@
+<p align="center"><img src="1.21.11/src/main/resources/assets/dhandmod/icon.png" width="128"></p>
+
 # d-hand mod
 
 double hand totems for you acting as double keybind. client only fabric mod.
