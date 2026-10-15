@@ -5,7 +5,7 @@
 	"name": "dhandmod",
 	"description": "double hand totems for you acting as double keybind",
 	"authors": ["dlindustries"],
-	"license": "All Rights Reserved",
+	"license": "All-Rights-Reserved",
 	"icon": "assets/dhandmod/icon.png",
 	"environment": "client",
 	"entrypoints": {

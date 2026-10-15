@@ -17,4 +17,4 @@ jars are in `builds`, sources are in the folder of each version. build with `./g
 
 -# claude did not make it, its written by hand from me, he is just updating it everytime i push out a new update locally
 
-all rights reserved, see LICENSE.
+all rights reserved. made by wysss.
