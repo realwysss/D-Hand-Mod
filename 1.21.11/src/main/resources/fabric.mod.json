@@ -20,7 +20,7 @@
 	],
 	"suggests": {
 		"modmenu": "*",
-		"cloth-config": "*"
+		"wysslib": "*"
 	},
 	"depends": {
 		"fabricloader": ">=0.19.0",
